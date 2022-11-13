@@ -1,5 +1,7 @@
 # Arduino controlled turntable
 
+![Turntable](/pictures/title.jpg)
+
 Some time ago, I got a 3D scanner from a kickstarter campaign and needed now a turntable for scanning objects. 
 
 I had some cheap, unused 28-BJY stepper motors available. On the paper they seemed to be perfectly suitable for a turntable. They feature a 1:64 gearing mechanism, which should apply enough strengh for turning small object, and its maximum speed of about 3-4 seconds per full revolution is more than enough.
